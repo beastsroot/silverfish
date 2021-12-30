@@ -6,7 +6,7 @@
 >>第一种安装方式：
 >>倘若您要安装它到本地，您需要已经安装分布式版本控制系统Git 。</br>
 ```
-git clone https://github.com/beastsroot/silverfish.git</br>
+git clone https://github.com/beastsroot/silverfish.git
 cd silverfish
 ```
 ## 法律免责声明
