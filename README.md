@@ -3,11 +3,10 @@
 >>昆虫纲衣鱼目的小昆虫名称各异，我拟化衣鱼目的小巧生物特性，应用于网络渗透。</br>
 >>它的最终表现形式是软件方向的存储容器，它使得放在衣鱼存储容器的单个文件在物理硬盘中的存储大小缩减，生成一个新的文件格式后缀的文件。整体属于网络空间-网络安全-网络渗透-网络后门工具。</br>
 ## 安装
+>>第一种安装方式：
 >>倘若您要安装它到本地，您需要已经安装分布式版本控制系统Git 。</br>
 ```
-git clone https://github.com/beastsroot/silverfish.git
-```
-```
+git clone https://github.com/beastsroot/silverfish.git</br>
 cd silverfish
 ```
 ## 法律免责声明
