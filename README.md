@@ -17,4 +17,4 @@ cd silverfish
 ## 端口
 >>silverfish使用计算机的9109端口。</br>
 ## 开源协议
->>silverfish遵循GNU General Public Licebse v3.0</br>
+>>silverfish遵循GNU General Public License v3.0</br>
