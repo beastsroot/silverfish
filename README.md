@@ -16,3 +16,5 @@ cd silverfish
 >>最后，我想向您指出，您必须对可能产生的的任何后果负有充分的责任。</br>
 ## 端口
 >>silverfish使用计算机的9109端口。</br>
+## 开源协议
+>>silverfish遵循GNU General Public Licebse v3.0</br>
